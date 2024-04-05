@@ -1,7 +1,5 @@
 {
   "@@locale": "de",
-  "greeting": "Hallo, Welt!",
-  "@greeting": {},
   "farewell": "Auf Wiedersehen, Welt!",
   "@farewell": {},
   "header": "titel",
