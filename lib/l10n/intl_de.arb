@@ -1,5 +1,5 @@
 {
-  "@@locale": "de", // Sprachcode für Deutsch
-  "greeting": "Hallo, Welt!", // Beispieltext für Begrüßung
-  "farewell": "Auf Wiedersehen, Welt!" // Beispieltext für Abschied
+    "@@locale": "de",
+    "greeting": "Hallo, Welt!",
+    "farewell": "Auf Wiedersehen, Welt!"
 }
