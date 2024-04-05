@@ -1,8 +1,6 @@
 {
   "farewell": "Goodbye, World!",
   "@farewell": {},
-  "greeting": "Hello, World!",
-  "@greeting": {},
   "header": "title",
   "@header": {}
 }
