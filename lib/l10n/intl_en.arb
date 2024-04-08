@@ -529,5 +529,7 @@
   "developerSettingsTitle": "Developer Settings",
   "@developerSettingsTitle": {},
   "0x1001": "Memory error",
-  "@0x1001": {}
+  "@0x1001": {},
+  "0x1101": "Timeout",
+  "@0x1101": {}
 }
