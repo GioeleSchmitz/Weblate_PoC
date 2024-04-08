@@ -527,5 +527,7 @@
   "catUtility": "useful",
   "@catUtility": {},
   "developerSettingsTitle": "Developer Settings",
-  "@developerSettingsTitle": {}
+  "@developerSettingsTitle": {},
+  "0x1001": "Memory error",
+  "@0x1001": {}
 }
