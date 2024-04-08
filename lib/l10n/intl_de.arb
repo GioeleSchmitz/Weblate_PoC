@@ -527,7 +527,5 @@
   "notSamePasswords": "Passwörter stimmen nicht überein",
   "@notSamePasswords": {},
   "checkBoxForPassword": "Ja, ich habe mir das Passwort irgendwo notiert oder gut gemerkt.",
-  "@checkBoxForPassword": {},
-  "deverloperSettingsTitle": "Entwicklereinstellungen",
-  "@deverloperSettingsTitle": {}
+  "@checkBoxForPassword": {}
 }
