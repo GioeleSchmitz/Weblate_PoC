@@ -529,5 +529,7 @@
   "checkBoxForPassword": "Ja, ich habe mir das Passwort irgendwo notiert oder gut gemerkt.",
   "@checkBoxForPassword": {},
   "developerSettingsTitle": "Entwicklereinstellungen",
-  "@developerSettingsTitle": {}
+  "@developerSettingsTitle": {},
+  "0x1001": "Speicherfehler",
+  "@0x1001": {}
 }
