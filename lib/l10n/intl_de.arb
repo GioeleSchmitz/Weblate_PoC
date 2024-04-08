@@ -531,5 +531,7 @@
   "developerSettingsTitle": "Entwicklereinstellungen",
   "@developerSettingsTitle": {},
   "0x1001": "Speicherfehler",
-  "@0x1001": {}
+  "@0x1001": {},
+  "0x1101": "Zeitueberschreitung",
+  "@0x1101": {}
 }
