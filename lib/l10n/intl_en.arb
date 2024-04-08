@@ -525,5 +525,7 @@
   "checkBoxForPassword": "Yes, I saved my Password",
   "@checkBoxForPassword": {},
   "catUtility": "useful",
-  "@catUtility": {}
+  "@catUtility": {},
+  "developerSettingsTitle": "Developer Settings",
+  "@developerSettingsTitle": {}
 }
